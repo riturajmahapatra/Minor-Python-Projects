@@ -1,6 +1,0 @@
-Question|Answer
-What does RAM stand for?|random access memory
-Who is the founder of Microsoft?|bill gates
-What is the capital of France?|paris
-What is 5 + 5?|10
-What is the speed of light in m/s?|299792458
